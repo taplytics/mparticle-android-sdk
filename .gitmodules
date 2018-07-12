@@ -73,3 +73,6 @@
 [submodule "kits/instabot-kit"]
     path = kits/instabot-kit
     url = git@github.com:mparticle-integrations/mparticle-android-integration-instabot.git
+[submodule "kits/taplytics-kit"]
+	path = kits/taplytics-kit
+	url = git@github.com:taplytics/mparticle-android-integration-example.git
